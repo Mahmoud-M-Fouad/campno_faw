@@ -1,0 +1,78 @@
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\bin\Debug\faw.exe.config
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\bin\Debug\faw.exe
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\bin\Debug\faw.pdb
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.csprojAssemblyReference.cache
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.manager.resources
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.Properties.Resources.resources
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.csproj.GenerateResource.cache
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.exe
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.pdb
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\bin\Debug\Guna.UI.dll
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.csproj.CopyComplete
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.add_hour.resources
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.delete_hour.resources
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.search_hour.resources
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.update_hour.resources
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.view_all_hour.resources
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.start_app.resources
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.change_pass.resources
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.forget_pass.resources
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\bin\Debug\faw.exe.manifest
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\bin\Debug\faw.application
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.exe.manifest
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.application
+C:\Users\A\Desktop\ملعب فاو\proj\faw\faw\obj\Debug\faw.reload.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.csprojAssemblyReference.cache
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.change_pass.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.delete_hour.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.forget_pass.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.manager.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.Properties.Resources.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.search_hour.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.start_app.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.update_hour.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.view_all_hour.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.csproj.GenerateResource.cache
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.exe
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.pdb
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\bin\Debug\faw.exe.config
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\bin\Debug\faw.exe.manifest
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\bin\Debug\faw.application
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\bin\Debug\faw.exe
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\bin\Debug\faw.pdb
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\bin\Debug\Guna.UI.dll
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.exe.manifest
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.application
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.csproj.CopyComplete
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.hour.add_new_hour.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.hour.delete_all_hour1.resources
+C:\Users\A\Desktop\faw project\faw 1\proj\faw\faw\obj\Debug\faw.about.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\bin\Debug\faw.exe.config
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\bin\Debug\faw.exe.manifest
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\bin\Debug\faw.application
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\bin\Debug\faw.exe
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\bin\Debug\faw.pdb
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\bin\Debug\Guna.UI.dll
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.csprojAssemblyReference.cache
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.hour.add_new_hour.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.hour.delete_all_hour1.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.change_pass.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.delete_hour.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.forget_pass.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.manager.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.Properties.Resources.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.search_hour.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.about.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.start_app.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.update_hour.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.view_all_hour.resources
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.csproj.GenerateResource.cache
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.exe.manifest
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.application
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.csproj.CopyComplete
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.exe
+C:\Users\A\Desktop\faw project\faw\proj\faw\faw\obj\Debug\faw.pdb
